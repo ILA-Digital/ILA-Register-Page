@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-email</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 20 0 20 16 0 16"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="1-1-homepage" transform="translate(-1213.000000, -6052.000000)" stroke="#FFFFFF">
+            <g id="footer" transform="translate(0.000000, 5924.000000)">
+                <g id="newsletter" transform="translate(1013.000000, 60.000000)">
+                    <g id="field" transform="translate(0.000000, 51.000000)">
+                        <g id="Group-26" transform="translate(200.000000, 17.000000)">
+                            <polyline id="Stroke-289" points="1 1 10 8 19 1"></polyline>
+                            <use id="Stroke-290" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

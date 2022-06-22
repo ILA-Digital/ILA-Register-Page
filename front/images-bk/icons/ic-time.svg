@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="10.5" r="9.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19" height="19" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-1-homepage" transform="translate(-304.000000, -5135.000000)">
+            <g id="Group-24" transform="translate(113.000000, 4835.000000)">
+                <g id="Group-22" transform="translate(191.000000, 300.000000)">
+                    <use id="Oval-3" stroke="#444444" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    <path d="M10,10 L10,5 L9,5 L9,10.5 L9,11 L13,11 L13,10 L10,10 Z" id="Combined-Shape" fill="#444444"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

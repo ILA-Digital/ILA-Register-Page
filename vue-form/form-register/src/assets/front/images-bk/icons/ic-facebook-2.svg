@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,12 L15.3831224,12 L15.8686466,8 L12,8 L12,6.05171108 C12,5.02232589 12.442566,5.0060594 14.0059674,5.0060594 L16,5.00524212 L16,1.14003017 C15.6550621,1.09684966 14.4714389,1 13.0944282,1 C10.2195125,1 8,2.65686483 8,5.69966055 L8,8 L5,8 L5,12 L8,12 L8,21 L12,21 L12,12 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-108.000000, 0.000000)" stroke-width="2" stroke="#444444">
+            <g transform="translate(108.000000, 0.000000)">
+                <use mask="url(#mask-2)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

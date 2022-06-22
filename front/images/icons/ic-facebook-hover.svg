@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="1">
+        <g id="1-1-homepage" transform="translate(-1138.000000, -6352.000000)" fill="#FFFFFF">
+            <g id="footer" transform="translate(0.000000, 5924.000000)">
+                <g id="social" transform="translate(1138.000000, 428.000000)">
+                    <g id="Facebook_icon">
+                        <path d="M11.1398979,20 L11.1398979,10.8771297 L14.3831224,10.8771297 L14.8686466,7.32168463 L11.1398979,7.32168463 L11.1398979,5.05171108 C11.1398979,4.02232589 11.442566,3.32081283 13.0059674,3.32081283 L15,3.31999555 L15,0.140030165 C14.6550621,0.0968496603 13.4714389,-1.77635684e-15 12.0944282,-1.77635684e-15 C9.21951248,-1.77635684e-15 7.25144766,1.65686483 7.25144766,4.69966055 L7.25144766,7.32168463 L4,7.32168463 L4,10.8771297 L7.25144766,10.8771297 L7.25144766,20 L11.1398979,20 L11.1398979,20 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

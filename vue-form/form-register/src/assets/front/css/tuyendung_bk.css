@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Mr+De+Haviland');
+/*
+.career-page,
+.career-page .header,
+.career-page .container-fixed,
+.career-page .block-hero,
+.career-page .hero-slider{
+    min-width: 0;
+
+}
+*/
+.clearfix{clear:both;position:relative;}
+.clearfix:before, .clearfix:after{content:'';clear:both;}
+.wrap-desc.product-detail{margin-bottom:20px;}
+.control-btn-container{position:absolute;width:100%;padding:0 30px;left:0;bottom:25px;}
+.control-btn-container a{position:static !important;}
+.wrap-thanks-callback{padding:100px 0;}
+.register-btn-wrap{width:153px;height:46px;background:url(../images/icons/btn-register2.png)no-repeat;position:fixed;bottom:5%;z-index:100;right:5px;text-align:center;line-height:46px;font-weight:600;cursor:pointer;}
+.register-btn-wrap a{color:white;font-size:16px;text-transform:uppercase;text-decoration:none;}
+#slider-Popup{position:fixed;bottom:0;right:0;width:328px;height:200px;z-index:100;}
+#slider-Popup .wrap-popup{position:relative;border:2px solid #fff;-webkit-box-shadow:0 0 3px rgba(211, 211, 211, 0.3);box-shadow:0 0 3px rgba(211, 211, 211, 0.3);}
+#slider-Popup .wrap-popup .btn-close{border-radius:50%;background:#EC102C;color:white;font-size:14px;position:absolute;top:0;left:0;z-index:1000;text-align:center;line-height:18px;padding:5px 10px;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);cursor:pointer;}
+#slider-Popup .wrap-popup .btn-register{position:fixed;right:3px;bottom:5px;border-radius:100px;background-color:#45C0F8;display:inline-block;padding:0 20px;color:#f9f9f9;font-size:12px;height:35px;line-height:35px;min-width:100px;-webkit-transition:all .5s;transition:all .5s;z-index:10000;text-decoration:none;text-transform:uppercase;-webkit-box-shadow:2px 3px 5px #666;box-shadow:2px 3px 5px #666;}
+.wrap-sub-register{margin-bottom:15px;}
+.wrap-sub-register p{font-size:14px;color:#585858;line-height:1.44;margin-bottom:15px;text-align:justify;}
+.wrap-sub-register ul{padding-left:15px;}
+.wrap-sub-register ul li{font-size:14px;color:#585858;line-height:1.44;margin-bottom:5px;list-style:disc;}
+.wrap-sub-register p.center{text-align:center;}
+.wrap-banner-ea{margin-top:95px;}
+.wrap-banner-ea img{width:100%;}
+.landingpage-layout .pad-top-90{padding-top:0 !important;}
+.ila-basic-item .desc h4{min-height:55px;}
+.ila-basic-item .desc h4 a{font-size:14px;}
+.header.sticky #side-menu.active{transform:translate(0, 90px);-moz-transform:translate(0, 90px);-webkit-transform:translate(0, 90px);}
+.job-container{margin-bottom:25px;}
+.job-container h4{font-size:15px !important;font-weight:600 !important;margin-bottom:12px !important;color:#767676 !important;text-transform:uppercase;}
+.job-container p{font-size:13px !important;}
+.job-container ul li{color:#767676;line-height:1.5;font-size:13px;margin-bottom:10px;}
+.ilacn-container h5{font-size:16px;font-weight:600;color:white;margin-bottom:15px;}
+.ilacn-container-opt-2 p{color:#767676;line-height:1.5;font-size:14px;}
+.table-schedule tr td{padding:15px 10px;}
+
+
+
+/*=============== Khoa style new recruiment website - HR rq - 13-03-2018 last change===============*/
+.career-page .table-schedule{
+    text-align: center;
+}
+.career-page .table-schedule tr{
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.career-page .table-schedule tr th{
+    padding: 20px 0;
+    text-align: center;
+    background: #325bbd;
+    color: #fff;
+}
+.career-page .table-schedule tr th:first-child,
+.career-page .table-schedule tr th:nth-child(2),
+.career-page .table-schedule tr td:first-child,
+.career-page .table-schedule tr td:nth-child(2){
+    text-align: left;
+    padding-left: 40px
+}
+.career-page .table-schedule tr:hover,
+.career-page .table-schedule tr:focus{
+    background: rgba(50,91,189,0.1);
+    cursor: default;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.career-page .list-style-desc{
+    color: #767676;
+}
+.jd-career-left .jd-career-block:not(:last-child){
+    margin-bottom: 20px;
+}
+.jd-career-left ul{
+    list-style: disc;
+    list-style-position: inside;
+}
+.jd-career-right ul a{
+    text-decoration: none;
+}
+.jd-career-right ul a:hover,
+.jd-career-right ul a:focus{
+    text-decoration: underline;
+}
+.jd-career-left h4,
+.jd-career-right h4 {
+    color: #767676 !important;
+}
+.career-frm{
+    background: #fff;
+    padding: 40px 30px 25px;
+    margin-top: 1em;
+}
+
+.career-page .ila-ipt{
+    height: 41px;
+}
+.file-upload-wrapper {
+    position: relative;
+    width: 100%;
+    height: 41px;
+}
+.file-upload-wrapper:after {
+    content: attr(data-text);
+    font-size: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #fff;
+    padding: 12px 15px;
+    display: block;
+    width: calc(100% - 40px);
+    pointer-events: none;
+    z-index: 20;
+    height: 100%;
+    color: #999;
+    border-radius: 5px 10px 10px 5px;
+    font-weight: 300;
+}
+.file-upload-wrapper:before {
+    content: 'Import';
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    display: inline-block;
+    background: #45C0F8;
+    color: #fff;
+    font-weight: 400;
+    z-index: 25;
+    font-size: 16px;
+    line-height: 41px;
+    padding: 0 15px;
+    pointer-events: none;
+    border-radius: 0 5px 5px 0;
+}
+.file-upload-wrapper:hover:before {
+    background: #20B6FA;
+}
+.file-upload-wrapper input {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+    cursor: pointer;
+    width: 100%;
+}
+.hotline a{
+    font-size: 18px;
+    font-weight: 600 !important;
+    color: #f44336 !important;
+}
+.career-frm > p > b{
+    color: #30313b;
+}
+.career-frm .ila-form label {
+    color: #767676;
+}
+
+.career-page p.big-k{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: right;
+    margin-top: 2em;
+    padding-right: 90px;
+}
+.career-page .signature{
+    font-family: 'Mr De Haviland', cursive;
+    font-size: 45px !important;
+    text-align: right;
+}

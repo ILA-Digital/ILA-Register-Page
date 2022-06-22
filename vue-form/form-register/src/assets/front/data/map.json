@@ -1,0 +1,180 @@
+{
+   "ila":[
+      {
+         "id":"1",
+         "name":"ILA Quận 3",
+         "district":"3",
+         "city":"Hồ Chí Minh",
+         "location":{
+            "lat":10.782795,
+            "lng":106.693757, 
+            "address":"146 Nguyễn Đình Chiểu, Quận 3, Tp. Hồ Chí Minh, Việt Nam"
+         }         
+      },
+      {
+         "id":"2",
+         "name":"ILA Cộng Hòa",
+         "district":"Cộng Hòa",  
+         "city":"Hồ Chí Minh",     
+         "location":{
+            "lat":10.802324,
+            "lng":106.640237,
+            "address":"Etown 3 Building, 364 Cộng Hòa, Q.Tân Bình"           
+         }         
+      },
+      {
+         "id":"3",
+         "name":"ILA Quận 1",
+         "district":"1",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.763955,
+            "lng":106.691047,
+            "address":"51 Nguyễn Cư Trinh, Quận 1, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"4",
+         "name":"ILA Quận 5",
+         "district":"5",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.755784,
+            "lng":106.663199,
+            "address":"5th Floor, Hung Vuong Plaza, 126 Hong Bang Street, District 5, Ho Chi Minh City Vietnam"            
+         }         
+      },
+      {
+         "id":"5",
+         "name":"ILA Phú Nhuận",
+         "district":"Phú Nhuận",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.803652,
+            "lng":106.681277,
+            "address":"456 Phan Xích Long, Quận Phú Nhuận, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"6",
+         "name":"ILA Bình Thạnh",
+         "district":"Bình Thạnh",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.794184,
+            "lng":106.717816,
+            "address":"Lầu 1, The Manor II, 91 Nguyễn Hữu Cảnh, Quận Bình Thạnh, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"7",
+         "name":"ILA Phú Mỹ Hưng",
+         "district":"7",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.733133,
+            "lng":106.706675,
+            "address":"SG-10, The Riverpark Residence-Phú Mỹ Hưng, 17-19 Phạm Văn Nghi, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"8",
+         "name":"ILA Gò Vấp",
+         "district":"Gò Vấp",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.828368,
+            "lng":106.684542,
+            "address":"757 - 759 - 761 Phan Văn Trị, phường 7, quận Gò Vấp, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"9",
+         "name":"ILA Thủ Đức",
+         "district":"Thủ Đức",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.850566,
+            "lng":106.765308,
+            "address":"Lầu 5 Tòa nhà Vincom, số 216 Võ Văn Ngân, Phường Bình Thọ, Thủ Đức"            
+         }         
+      },
+      {
+         "id":"10",
+         "name":"ILA Quận 2",
+         "district":"2",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.805335,
+            "lng":106.751432,
+            "address":"Tầng 2, tòa nhà Vista, Xa lộ Hà Nội, Phường An Phú, Quận 2, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"11",
+         "name":"ILA Tân Phú",
+         "district":"Tân Phú",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.801716,
+            "lng":106.617932,
+            "address":"AEON Mall, Tân Kỳ Tân Quý, phường Sơn Kỳ, Q. Tân Phú, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"12",
+         "name":"ILA Quận 6",
+         "district":"6",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.754354,
+            "lng":106.635853,
+            "address":"1039 Hồng Bàng, Phường 12, Quận. 6, Tp. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"13",
+         "name":"ILA Bình Chánh",
+         "district":"Bình Chánh",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.733311,
+            "lng":106.673941,
+            "address":"Lầu 2, Centre Mall (Satra Pham Hung), C6/27 Phạm Hùng, Quận Bình Chánh, TP. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"14",
+         "name":"ILA Tân Phú",
+         "district":"Tân Phú",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.770140,
+            "lng":106.632011,
+            "address":"174 Hòa Bình, Quận Tân Phú, TP. Hồ Chí Minh, Việt Nam"            
+         }         
+      },
+      {
+         "id":"15",
+         "name":"ILA Bình Thạnh",
+         "district":"Bình Thạnh",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.810470,
+            "lng":106.712136,
+            "address":"205 Nguyễn Xí, Phường 26, Q.Bình Thạnh, Tp. HCM, Vietnam"            
+         }         
+      },
+      {
+         "id":"16",
+         "name":"ILA Tân Bình",
+         "district":"Tân Bình",   
+         "city":"Hồ Chí Minh",    
+         "location":{
+            "lat":10.797496,
+            "lng":106.658061,
+            "address":"435D - 435E Hoàng Văn Thụ, P4, Q.Tân Bình"            
+         }         
+      }
+   ]
+}

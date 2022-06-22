@@ -1,0 +1,107 @@
+@import url(../fonts/myriad/font.css);
+* {
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, p {
+  margin: 0;
+  padding: 0; }
+
+a, a:hover, a:focus {
+  text-decoration: none; }
+
+/*VARIABLE*/
+  div.title-section h2 {
+      font-size: 25px;
+      color: #54c0ee;
+      text-transform: uppercase;
+      margin-bottom: 25px;
+      text-align: center;
+      font-weight: 600;
+      font-family: 'MYRIADPROREGULAR' !important; }
+    h4.title-why {
+      font-size: 14px;
+      line-height: 20px;
+      color: #2A338F;
+      font-weight: 600;
+      text-transform: uppercase;
+      text-align: center; }
+     h4.title-why span.red {
+        font-size: 17px;
+        color: red;
+        display: block; }
+    section.why-ila#slick-slide .each-slider img {
+      margin: 0 auto;
+      display: block; }
+  section.why-ila {
+  
+    padding: 30px 0;
+    background: white; }
+    .page section.why-ila div.title-section h2 {
+      font-size: 25px;
+      color: #54c0ee;
+      text-transform: uppercase;
+      margin-bottom: 25px;
+      text-align: center;
+      font-weight: 600;
+      font-family: 'MYRIADPROREGULAR' !important; }
+    section.why-ila .wrap-title h4.title-why {
+      font-size: 14px;
+      line-height: 20px;
+      color: #2A338F;
+      font-weight: 600;
+      text-transform: uppercase;
+      text-align: center; }
+      .page section.why-ila .wrap-title h4.title-why span.red {
+        font-size: 17px;
+        color: red;
+        display: block; }
+    section.why-ila#slick-slide .each-slider img {
+      margin: 0 auto;
+      display: block; }
+    
+  
+    p.note-term{
+      color:#42bef8;
+    }
+    .modal#term h5.modal-title{
+      font-size:15px;
+      font-weight: 600;
+    }
+    .modal#term .modal-header{
+      position:relative;
+    }
+    .modal#term .modal-header .close{
+      top:0;
+      width:auto;
+      height:auto;
+      position: absolute;
+      font-size:20px;
+    }
+
+    .modal#term .modal-body p{
+      font-size: 14px;
+      color: #585858;
+      line-height: 1.44;
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+    .modal#term .modal-body ul.list-modal-term{
+      padding-left:15px;
+      list-style: disc;
+    }
+    .modal#term .modal-body ul.list-modal-term li{
+      font-size: 14px;
+      color: #585858;
+      line-height: 1.44;
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+
+    .bootstrap-select > .dropdown-toggle.bs-placeholder[data-id=city] + div.dropdown-menu ul.dropdown-menu a.new > span.text{
+      color:red;
+      font-weight:600;
+      position: relative;
+    }
+
+/*# sourceMappingURL=style.css.map */
